@@ -73,3 +73,24 @@ Creating Tickets inside of OS Ticket under a End User
 
 <img width="975" height="481" alt="image" src="https://github.com/user-attachments/assets/d9fec5e3-6ccd-4df2-a243-91cc15512753" />
 
+Help Desk Agent - I'm the agent now and I log into admin role and I look at the ticket I would see all comments related to the issue which was reported. "Online Banking branch is offline" I as the admin would test as the Read Only access, contacted end users to confirm that the entire system is down, stated this is "Business Critical" escalated to System Admin department. 
+
+- The online backing system backend server was accidentally restarted during business hours due to the configuration issue, as the team will check the settings and attempt to restart the system. While continuing with the restart the servers have successfully came back online, as this ticket is successfully Resolved
+
+<img width="975" height="355" alt="image" src="https://github.com/user-attachments/assets/6a9292ad-ba34-47f1-b9aa-fe9f94a47001" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
