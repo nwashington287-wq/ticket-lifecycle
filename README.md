@@ -48,11 +48,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="2539" height="1262" alt="image" src="https://github.com/user-attachments/assets/cf9a767c-ea52-4cee-836f-7f5e97a6765c" />
 
 Installation and Post Set Up - making sure that all sites are working properly 
-
+-    This includes Admin/Analyst page
+-    End Users Tab
+-    Agent Panel and Admin Panel
 
 <img width="975" height="756" alt="image" src="https://github.com/user-attachments/assets/a165ad1e-7b80-4543-b9b4-064f5d37ab4f" />
 
+
 <img width="752" height="231" alt="image" src="https://github.com/user-attachments/assets/db801e0c-c72d-460c-9274-3fca97197a5a" />
+
+
+<img width="975" height="348" alt="image" src="https://github.com/user-attachments/assets/28ee60de-a3ef-4384-ba28-1020e3bfa660" />
+
 
 <img width="666" height="363" alt="image" src="https://github.com/user-attachments/assets/02287aec-da69-4e7f-a523-8d215e013efe" />
 
