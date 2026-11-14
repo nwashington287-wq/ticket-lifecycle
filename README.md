@@ -44,12 +44,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 -   Install  HeidiSQL from the OS Ticket Folder
 -   Open Heidi SQL, create a new session, connect to the session and then create a database called "OS Ticket" continue to complete this where I;m setting up my SQL database, username and password. Then I will Install
 
- 
-
-<h2>Lifecycle Stages</h2>
-
 <p>
 <img width="2539" height="1262" alt="image" src="https://github.com/user-attachments/assets/cf9a767c-ea52-4cee-836f-7f5e97a6765c" />
+
+Installation and Post Set Up - making sure that all sites are working properly 
+
+
+<img width="975" height="756" alt="image" src="https://github.com/user-attachments/assets/a165ad1e-7b80-4543-b9b4-064f5d37ab4f" />
+
+<img width="752" height="231" alt="image" src="https://github.com/user-attachments/assets/db801e0c-c72d-460c-9274-3fca97197a5a" />
+
+<img width="666" height="363" alt="image" src="https://github.com/user-attachments/assets/02287aec-da69-4e7f-a523-8d215e013efe" />
+
+
 
 </p>
 <p>
