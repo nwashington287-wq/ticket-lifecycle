@@ -30,12 +30,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Create Azure Virtual Machine Windows Account</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Log into the VM and Remote Desktop
+-   Download the os ticket-installation-File-Zip onto my desktop
+-   Install/Enable IIS in Windows with CGI
+-   From the OS Ticket Installation File/Folder I will install PHP Manager for IIS, Rewrite Module, VVC_redist.x86.exe, and MySQL 5.5.62, then I would  unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder. Create Username and passwords
+-   Open IIS as an Admin
+-   Register PHP from IIS, then Reload IIS
+-   Install OS Ticket - from here being in the osticket-installation-file-folder I would unzip osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
+-   Reload IIS and go to the OS Ticket site - right click on Browse. I would have to rename ost-config From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+-   Assign permission to ost-config.php - I would disable inheritance - remove all, and give permission to all
+-   Install  HeidiSQL from the OS Ticket Folder
+-   Open Heidi SQL, create a new session, connect to the session and then create a database called "OS Ticket" continue to complete this where I;m setting up my SQL database, username and password. Then I will Install
+
+ 
 
 <h2>Lifecycle Stages</h2>
 
