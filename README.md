@@ -50,8 +50,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 Installation and Post Set Up - making sure that all sites are working properly 
 -    This includes Admin/Analyst page
 -    End Users Tab
--    Agent Panel and Admin Panel
--    Configuring Roles/Permissions, Department, Teams, Agents/Users, Service Level Agreement (SLA), and Help Topics
+-    Agent Panel and Admin Panel - creating accounts that includes passwords and access
+-    Configuring Roles/Permissions, Department, Teams, Agents/Users, Service Level Agreement (SLA), and Help Topics (includes grace periods 1, 4, and 8 hours that are scheduled within 24 hour/business hours) - creating accounts that includes passwords, access to different departments/Online Banking
 
 <img width="975" height="756" alt="image" src="https://github.com/user-attachments/assets/a165ad1e-7b80-4543-b9b4-064f5d37ab4f" />
 
