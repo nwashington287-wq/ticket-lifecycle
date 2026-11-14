@@ -51,6 +51,7 @@ Installation and Post Set Up - making sure that all sites are working properly
 -    This includes Admin/Analyst page
 -    End Users Tab
 -    Agent Panel and Admin Panel
+-    Configuring Roles/Permissions, Department, Teams, Agents/Users, Service Level Agreement (SLA), and Help Topics
 
 <img width="975" height="756" alt="image" src="https://github.com/user-attachments/assets/a165ad1e-7b80-4543-b9b4-064f5d37ab4f" />
 
