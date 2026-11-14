@@ -61,8 +61,16 @@ Installation and Post Set Up - making sure that all sites are working properly
 
 <img width="975" height="348" alt="image" src="https://github.com/user-attachments/assets/28ee60de-a3ef-4384-ba28-1020e3bfa660" />
 
+<img width="975" height="647" alt="image" src="https://github.com/user-attachments/assets/09fd9b57-1786-49a2-bc62-dcbf64fab4af" />
 
-<img width="666" height="363" alt="image" src="https://github.com/user-attachments/assets/02287aec-da69-4e7f-a523-8d215e013efe" />
+<img width="975" height="403" alt="image" src="https://github.com/user-attachments/assets/52b71f13-93d5-4db3-8230-95634f91a558" />
+
+<img width="975" height="590" alt="image" src="https://github.com/user-attachments/assets/770ea6f9-5999-467b-8b65-c05a78f5044d" />
+
+
+
+
+
 
 
 
